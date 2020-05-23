@@ -8,4 +8,4 @@ This is the Learning path of the new JavaScript runtime engine Deno.js
 **`DELETE`** - /todos/:id
 
 **Run**
-
+deno run --allow-net --allow-write --allow-read ./index.js
